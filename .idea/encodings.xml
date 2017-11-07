@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-assembly" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-flume" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-hive" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-kafka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-load-balancer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-pherf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-pig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-queryserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-queryserver-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-spark" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-tracing-webapp" charset="UTF-8" />
+  </component>
+</project>

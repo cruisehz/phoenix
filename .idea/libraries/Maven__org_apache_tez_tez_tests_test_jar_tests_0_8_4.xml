@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.tez:tez-tests:test-jar:tests:0.8.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tez/tez-tests/0.8.4/tez-tests-0.8.4-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tez/tez-tests/0.8.4/tez-tests-0.8.4-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tez/tez-tests/0.8.4/tez-tests-0.8.4-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

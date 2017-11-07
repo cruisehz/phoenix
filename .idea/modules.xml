@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/phoenix.iml" filepath="$PROJECT_DIR$/phoenix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-assembly/phoenix-assembly.iml" filepath="$PROJECT_DIR$/phoenix-assembly/phoenix-assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-client/phoenix-client.iml" filepath="$PROJECT_DIR$/phoenix-client/phoenix-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-core/phoenix-core.iml" filepath="$PROJECT_DIR$/phoenix-core/phoenix-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-flume/phoenix-flume.iml" filepath="$PROJECT_DIR$/phoenix-flume/phoenix-flume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-hive/phoenix-hive.iml" filepath="$PROJECT_DIR$/phoenix-hive/phoenix-hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-kafka/phoenix-kafka.iml" filepath="$PROJECT_DIR$/phoenix-kafka/phoenix-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-load-balancer/phoenix-load-balancer.iml" filepath="$PROJECT_DIR$/phoenix-load-balancer/phoenix-load-balancer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-pherf/phoenix-pherf.iml" filepath="$PROJECT_DIR$/phoenix-pherf/phoenix-pherf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-pig/phoenix-pig.iml" filepath="$PROJECT_DIR$/phoenix-pig/phoenix-pig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-queryserver/phoenix-queryserver.iml" filepath="$PROJECT_DIR$/phoenix-queryserver/phoenix-queryserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-queryserver-client/phoenix-queryserver-client.iml" filepath="$PROJECT_DIR$/phoenix-queryserver-client/phoenix-queryserver-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-server/phoenix-server.iml" filepath="$PROJECT_DIR$/phoenix-server/phoenix-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-spark/phoenix-spark.iml" filepath="$PROJECT_DIR$/phoenix-spark/phoenix-spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoenix-tracing-webapp/phoenix-tracing-webapp.iml" filepath="$PROJECT_DIR$/phoenix-tracing-webapp/phoenix-tracing-webapp.iml" />
+    </modules>
+  </component>
+</project>

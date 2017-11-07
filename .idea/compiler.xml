@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="phoenix-client" />
+        <module name="phoenix-core" />
+        <module name="phoenix-flume" />
+        <module name="phoenix-hive" />
+        <module name="phoenix-kafka" />
+        <module name="phoenix-load-balancer" />
+        <module name="phoenix-pherf" />
+        <module name="phoenix-pig" />
+        <module name="phoenix-queryserver" />
+        <module name="phoenix-queryserver-client" />
+        <module name="phoenix-server" />
+        <module name="phoenix-spark" />
+        <module name="phoenix-tracing-webapp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="phoenix" target="1.5" />
+      <module name="phoenix-assembly" target="1.5" />
+      <module name="phoenix-client" target="1.7" />
+      <module name="phoenix-core" target="1.7" />
+      <module name="phoenix-flume" target="1.7" />
+      <module name="phoenix-hive" target="1.7" />
+      <module name="phoenix-kafka" target="1.7" />
+      <module name="phoenix-load-balancer" target="1.7" />
+      <module name="phoenix-pherf" target="1.7" />
+      <module name="phoenix-pig" target="1.7" />
+      <module name="phoenix-queryserver" target="1.7" />
+      <module name="phoenix-queryserver-client" target="1.7" />
+      <module name="phoenix-server" target="1.7" />
+      <module name="phoenix-spark" target="1.7" />
+      <module name="phoenix-tracing-webapp" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
